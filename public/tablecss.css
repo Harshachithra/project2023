@@ -1,0 +1,35 @@
+h1{
+     font-color:white;
+     font-size:20px;
+     font-family:algerian;
+     padding-top: 10px;
+}
+	
+#fs{
+
+    font-family: arial,helvetica,sans-serief;
+	border: 0px ;
+	width: 50%;
+    border-collapse: collapse;
+}
+#fs td,#fs th 
+{
+
+	border: 1px solid white;
+	padding: 8px;
+}
+
+#fs tr:hover {background-color: yellow;}
+#fs tr{
+	background-color:#9da6a0;
+}
+#fs th {
+	background-color: grey;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+}
+body{
+background-image:url("office.jpg");
+}
